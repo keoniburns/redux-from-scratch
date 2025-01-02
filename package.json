@@ -1,0 +1,11 @@
+{
+  "name": "redux_from_scratch",
+  "version": "1.0.0",
+  "description": "personal project for understanding state and redux a bit better",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Keoni Burns",
+  "license": "ISC"
+}
